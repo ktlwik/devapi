@@ -166,7 +166,25 @@
       "surName": {
         "msg": "",
         "type": "1",
-        "title": "surName",
+        "title": "lastName",
+        "options": [],
+        "order_no": 2,
+        "required": "2",
+        "validate": [],
+        "option_default": [],
+        "option_group": [],
+        "attribute": {
+          "parent_elm": "",
+          "limit_type": "",
+          "min_length": "",
+          "max_length": "",
+          "placeholder": "Yergozha"
+        }
+      },
+      "middleName": {
+        "msg": "",
+        "type": "1",
+        "title": "lastName",
         "options": [],
         "order_no": 2,
         "required": "2",
