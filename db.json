@@ -145,7 +145,7 @@
       "20": "Replies"
     },
     "cols": {
-      "name": {
+      "firstName": {
         "msg": "",
         "type": "1",
         "title": "name",
@@ -160,7 +160,25 @@
           "limit_type": "",
           "min_length": "",
           "max_length": "",
-          "placeholder": ""
+          "placeholder": "Nuri"
+        }
+      },
+      "surName": {
+        "msg": "",
+        "type": "1",
+        "title": "name",
+        "options": [],
+        "order_no": 2,
+        "required": "2",
+        "validate": [],
+        "option_default": [],
+        "option_group": [],
+        "attribute": {
+          "parent_elm": "",
+          "limit_type": "",
+          "min_length": "",
+          "max_length": "",
+          "placeholder": "Yergozha"
         }
       },
       "email": {
