@@ -148,7 +148,7 @@
       "firstName": {
         "msg": "",
         "type": "1",
-        "title": "name",
+        "title": "firstName",
         "options": [],
         "order_no": 2,
         "required": "2",
@@ -166,7 +166,7 @@
       "surName": {
         "msg": "",
         "type": "1",
-        "title": "name",
+        "title": "surName",
         "options": [],
         "order_no": 2,
         "required": "2",
