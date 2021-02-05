@@ -18,12 +18,6 @@
           "parent_elm": ""
         }
       },
-      "ext_04": {
-        "msg": "",
-        "type": "6",
-        "title": "date",
-        "required": "1",
-      },
       "name": {
         "msg": "",
         "type": "1",
