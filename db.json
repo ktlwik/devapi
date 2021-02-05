@@ -7,6 +7,36 @@
    ],
    "details":{
       "cols":{
+         "ext_01": {
+           "msg": "",
+           "type": "3",
+           "title": "checkbox",
+           "options": {
+             "1": "2"
+           },
+           "order_no": 0,
+           "required": "1",
+           "validate": [],
+           "option_default": [
+             "1"
+           ],
+           "option_group": {
+             "1": "3"
+           },
+           "contents": [
+             {
+               "key": 1,
+               "value": "2",
+               "default": true,
+               "attribute": {
+                 "group": "3"
+               }
+             }
+           ],
+           "attribute": {
+             "parent_elm": ""
+           }
+         },
          "ext_04": {
            "msg": "",
            "type": "6",
