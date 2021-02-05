@@ -7,6 +7,16 @@
    ],
    "details":{
       "cols":{
+         "ext_04": {
+           "msg": "",
+           "type": "6",
+           "title": "date",
+           "order_no": 0,
+           "required": "1",
+           "validate": [],
+           "option_default": [],
+           "option_group": []
+         },
          "ext_05":{
             "msg":"",
             "type":"7",
