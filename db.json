@@ -22,16 +22,7 @@
         "msg": "",
         "type": "6",
         "title": "date",
-        "options": {},
-        "order_no": 0,
         "required": "1",
-        "validate": [],
-        "option_default": [],
-        "option_group": [],
-        "attribute": {
-          "parent_elm": "",
-          "arrYear": {}
-        }
       },
       "name": {
         "msg": "",
