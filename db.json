@@ -1,87 +1,127 @@
 {
-  "errors": [],
-  "messages": [],
-  "details": {
-    "cols": {
-      "ext_05": {
-        "msg": "",
-        "type": "7",
-        "title": "file",
-        "options": [],
-        "order_no": 0,
-        "required": "1",
-        "validate": [],
-        "option_default": [],
-        "option_group": [],
-        "extensions": [],
-        "attribute": {
-          "parent_elm": ""
-        }
+   "errors":[
+      
+   ],
+   "messages":[
+      
+   ],
+   "details":{
+      "cols":{
+         "ext_05":{
+            "msg":"",
+            "type":"7",
+            "title":"file",
+            "options":[
+               
+            ],
+            "order_no":0,
+            "required":"1",
+            "validate":[
+               
+            ],
+            "option_default":[
+               
+            ],
+            "option_group":[
+               
+            ],
+            "extensions":[
+               
+            ],
+            "attribute":{
+               "parent_elm":""
+            }
+         },
+         "name":{
+            "msg":"",
+            "type":"1",
+            "title":"name",
+            "options":[
+               
+            ],
+            "order_no":2,
+            "required":"2",
+            "validate":[
+               
+            ],
+            "option_default":[
+               
+            ],
+            "option_group":[
+               
+            ],
+            "attribute":{
+               "parent_elm":"",
+               "limit_type":"",
+               "min_length":"",
+               "max_length":"",
+               "placeholder":""
+            }
+         },
+         "email":{
+            "msg":"",
+            "type":"1",
+            "title":"email",
+            "options":[
+               
+            ],
+            "order_no":0,
+            "required":"2",
+            "validate":[
+               
+            ],
+            "option_default":[
+               
+            ],
+            "option_group":[
+               
+            ],
+            "attribute":{
+               "parent_elm":"",
+               "limit_type":"",
+               "min_length":"",
+               "max_length":"",
+               "placeholder":""
+            }
+         },
+         "ext_01":{
+            "msg":"",
+            "type":"9",
+            "title":"会員番号",
+            "order_no":0,
+            "required":"1",
+            "validate":[
+               
+            ],
+            "option_default":[
+               
+            ],
+            "option_group":[
+               
+            ],
+            "attribute":{
+               "parent_elm":""
+            }
+         },
+         "category":{
+            "options":[
+               
+            ]
+         },
+         "message":{
+            "options":[
+               
+            ]
+         }
       },
-      "name": {
-        "msg": "",
-        "type": "1",
-        "title": "name",
-        "options": [],
-        "order_no": 2,
-        "required": "2",
-        "validate": [],
-        "option_default": [],
-        "option_group": [],
-        "attribute": {
-          "parent_elm": "",
-          "limit_type": "",
-          "min_length": "",
-          "max_length": "",
-          "placeholder": ""
-        }
+      "last_update_comment":null,
+      "name":"name",
+      "email":"email",
+      "order":{
+         "name":2,
+         "email":0,
+         "ext_01":0
       },
-      "email": {
-        "msg": "",
-        "type": "1",
-        "title": "email",
-        "options": [],
-        "order_no": 0,
-        "required": "2",
-        "validate": [],
-        "option_default": [],
-        "option_group": [],
-        "attribute": {
-          "parent_elm": "",
-          "limit_type": "",
-          "min_length": "",
-          "max_length": "",
-          "placeholder": ""
-        }
-      },
-      "ext_01": {
-        "msg": "",
-        "type": "9",
-        "title": "会員番号",
-        "order_no": 0,
-        "required": "1",
-        "validate": [],
-        "option_default": [],
-        "option_group": [],
-        "attribute": {
-          "parent_elm": ""
-        },
-      },
-      "category": {
-        "options": []
-      },
-      "message": {
-        "options": []
-      }
-    },
-    "last_update_comment": null,
-    "name": "name",
-    "email": "email",
-    "order": {
-      "name": 2,
-      "email": 0,
-      "ext_01": 0
-    },
-    "sort_order": null
-  }
+      "sort_order":null
+   }
 }
