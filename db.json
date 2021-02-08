@@ -7,6 +7,20 @@
    ],
    "details":{
       "cols":{
+          "ext_06": {
+           "msg": "",
+           "type": "8",
+           "title": "json",
+           "options": null,
+           "order_no": 0,
+           "required": "1",
+           "validate": [],
+           "option_default": [],
+           "option_group": [],
+           "attribute": {
+             "parent_elm": ""
+           }
+         },
          "ext_01": {
            "msg": "",
            "type": "3",
