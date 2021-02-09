@@ -137,7 +137,7 @@
             "required":"2",
             "validate":{
                "type":"regex",
-               "regex":"/^([a-z0-9]{5,})$/"
+               "regex":"[a-z0-9]{5,}"
             },
             "option_default":[
                
