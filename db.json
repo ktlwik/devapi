@@ -136,7 +136,7 @@
             "order_no":0,
             "required":"2",
             "validate":{
-               "type":"regex",
+               "type":"url",
                "regex":"[a-z0-9]{5,}"
             },
             "option_default":[
