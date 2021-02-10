@@ -208,25 +208,6 @@
                "placeholder":""
             }
          },
-         "ext_01":{
-            "msg":"",
-            "type":"9",
-            "title":"会員番号",
-            "order_no":0,
-            "required":"1",
-            "validate":[
-               
-            ],
-            "option_default":[
-               
-            ],
-            "option_group":[
-               
-            ],
-            "attribute":{
-               "parent_elm":""
-            }
-         },
          "category":{
             "options":[
                
