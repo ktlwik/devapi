@@ -7,6 +7,26 @@
    ],
    "details":{
       "cols":{
+         "ext_07": {
+           "msg": "",
+           "type": "2",
+           "title": "text_400_characters",
+           "options": [],
+           "order_no": 0,
+           "required": "1",
+           "validate": {
+           },
+           "option_default": [],
+           "option_group": [],
+           "attribute": {
+             "parent_elm": "",
+             "type": "tel",
+             "limit_type": "",
+             "min_length": "",
+             "max_length": "",
+             "placeholder": ""
+           }
+         },
          "ext_48":{
             "msg":"annotation",
             "type":"9",
