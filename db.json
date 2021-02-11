@@ -82,6 +82,50 @@
                "09":"栃木県"
             }
          },
+         "ext_02": {
+           "msg": "",
+           "type": "4",
+           "title": "option",
+           "options": {
+             "1": "2",
+             "2": "3"
+           },
+           "order_no": 0,
+           "required": "1",
+           "validate": {
+             "random": "1"
+           },
+           "option_default": [
+             "1",
+             "2"
+           ],
+           "option_group": {
+             "1": "3",
+             "2": "4"
+           },
+           "contents": [
+             {
+               "key": 1,
+               "value": "2",
+               "default": true,
+               "attribute": {
+                 "group": "3"
+               }
+             },
+             {
+               "key": 2,
+               "value": "3",
+               "default": true,
+               "attribute": {
+                 "group": "4"
+               }
+             }
+           ],
+           "attribute": {
+             "parent_elm": "",
+             "random": "1"
+           }
+         },
          "ext_06":{
             "msg":"",
             "type":"8",
