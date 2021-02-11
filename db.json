@@ -7,6 +7,56 @@
    ],
    "details":{
       "cols":{
+         "ext_03": {
+           "msg": "",
+           "type": "5",
+           "title": "multiple",
+           "options": {
+             "1": "1",
+             "2": "3",
+             "4": "5"
+           },
+           "order_no": 0,
+           "required": "1",
+           "validate": [],
+           "option_default": [
+             "1"
+           ],
+           "option_group": {
+             "1": "1",
+             "2": "3",
+             "4": "5"
+           },
+           "contents": [
+             {
+               "key": 1,
+               "value": "1",
+               "default": true,
+               "attribute": {
+                 "group": "1"
+               }
+             },
+             {
+               "key": 2,
+               "value": "3",
+               "default": false,
+               "attribute": {
+                 "group": "3"
+               }
+             },
+             {
+               "key": 4,
+               "value": "5",
+               "default": false,
+               "attribute": {
+                 "group": "5"
+               }
+             }
+           ],
+           "attribute": {
+             "parent_elm": ""
+           }
+         },
          "ext_07": {
            "msg": "",
            "type": "2",
