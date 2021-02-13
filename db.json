@@ -261,8 +261,8 @@
                
             ],
             "attribute": {
-               "minYear": "2020",
-               "maxYear": "2023",
+               "minYear": "1900",
+               "maxYear": "2000",
                "parent_elm": "",
                "add_time": "1"
             }
