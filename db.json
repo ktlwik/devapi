@@ -80,6 +80,7 @@
          "ext_48":{
             "msg":"annotation",
             "type":"9",
+            "required": "2",
             "title":"prefecture",
             "options":{
                "10":"群馬県",
