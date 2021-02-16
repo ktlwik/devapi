@@ -287,7 +287,10 @@
                
             ],
             "extensions":[
-               
+                ".jpg\r",
+                ".html",
+                ".txt",
+                ".png"
             ],
             "attribute":{
                "parent_elm":""
